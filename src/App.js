@@ -1,12 +1,10 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
 import { useState } from 'react';
-import { FaTrash } from "react-icons/fa";
+//import { FaTrash } from "react-icons/fa";
 import {
   MdDelete,
-  MdDone,
-  MdDoneAll,
-  MdUndo,
+  MdDone
 } from "react-icons/md";
 
 function App() {
